@@ -56,7 +56,17 @@ O **Loan-Java** é uma aplicação desenvolvida em Java utilizando o framework S
 
 **Alguns Outros Exemplos**
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/0426af09-cf2e-4eb3-99a5-cab7f481012f"/>
+</div>
 
+<div align="center">
+<img src="https://github.com/user-attachments/assets/3570601f-3db3-4369-bbcf-5e6d88b386af"/>
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/ff0dff2b-52bd-4a80-9246-9ef62de68b3d"/>
+</div>
 
 ## ⚙️ Instalação e Configuração
 
