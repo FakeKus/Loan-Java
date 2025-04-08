@@ -56,7 +56,7 @@ O **Loan-Java** é uma aplicação desenvolvida em Java utilizando o framework S
 
 **Alguns Outros Exemplos**
 
-![Exemplo 02](src\main\resources\images\Loan01.png)
+![Exemplo 02](Loan-Java\src\main\resources\images\Loan01.png)
 
 ![Exemplo 03](src\main\resources\images\Loan02.png)
 
